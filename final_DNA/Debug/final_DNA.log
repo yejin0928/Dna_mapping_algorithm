@@ -1,0 +1,5 @@
+﻿  DNA.cpp
+D:\컴알\설계프로젝트_2019112007_권예진\설계프로젝트_코드파일_2019112007_권예진\final_DNA\DNA.cpp(167,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\컴알\설계프로젝트_2019112007_권예진\설계프로젝트_코드파일_2019112007_권예진\final_DNA\DNA.cpp(377,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\컴알\설계프로젝트_2019112007_권예진\설계프로젝트_코드파일_2019112007_권예진\final_DNA\DNA.cpp(384,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  final_DNA.vcxproj -> D:\컴알\설계프로젝트_2019112007_권예진\설계프로젝트_코드파일_2019112007_권예진\Debug\final_DNA.exe
